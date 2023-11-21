@@ -1,0 +1,16 @@
+Enano;Raza diestra en la mineria, que tienen una destresa en la artesania y la forja. Con una gran resistencia fisica aunque no velocidad. En el combate usan lo que son armas pesadas haciendo un dano considerable.;1;3;6;4;5;2;8;7;
+Elfo;Seres misteriosos, altos, expertos en magia elemental y combate con arcos, espadas o hechizos, habiles en sanacion, viven en bosques.;6;1;7;8;3;5;4;2;
+Orco;Una raza poderosa y guerrera que tienen una fuerza fisica alta. Viven en sociedades tribales o clanicas. Usan armas que generan un gran dano por su habilidad fisica.;2;5;8;4;7;1;6;3;
+Humano;Raza versatil, adaptable a entornos diversos, sin habilidades magicas, compensan con ingenio, determinacion, aprendizaje rapido y adaptacion.;2;3;8;7;6;5;1;4;
+Elfo nocturno;Variante elfica de tono oscuro, expertos en magia oscura, sigilo, armas exoticas y venenosas, destacan en combate y tacticas.;8;4;1;7;3;5;6;2;
+Beasts;Una raza similar a las de los humanos pero con rasgos antropomorficos de animales. Viven en tribus mayormente tienen contacto con la naturaleza. Segun el animal base que estan relacionados tienen sus habilidades fisicas;3;8;7;4;6;2;5;1;
+Hobbit;Viven en comunidades pequenas apartadas, astutos e ingeniosos para resolver, sin grandes habilidades fisicas o magicas.;2;3;6;8;7;5;4;1;
+Ogro;Criaturas caracterizadas por su fuerza bruta y un aspecto intimidante. Viven en areas remotas, mayoritariamente estan solos. En el combate tienen su fuerza bruta y gran resistencia fisica.;2;8;4;6;7;1;3;5;
+Naga;Son criaturas mitologicas, con aspecto humanoide serpenteante, guardianes de zonas sagradas conectadas con la naturaleza, sabios y maestros de magia.;5;1;3;8;2;7;4;6;
+Undead;Son criaturas reanimadas, mayoritariamente son creados por una magia oscura, maldiciones o eventos sobrenaturales. Suelen ser agresivos por su gran cantidad de venganza.;6;1;2;8;3;4;7;5;
+Gnomo;Pequenas criaturas ingeniosas y curiosas, habiles en artesania y tecnologia, viven en comunidades subterraneas y disfrutan inventando mecanismos.;4;7;2;3;5;6;1;8;
+Hada;Seres magicos, que tienen alas y habilidades magicas poderosas. Que viven en zonas muy vinculadas a la naturaleza. Pueden ser benevolentes como juguetones.;7;1;2;8;3;6;4;5;
+Jinn;Seres de energia o espiritus magicos, capaces de cambiar de forma y poseer habilidades elementales.;8;1;2;6;3;7;5;4;
+Trol;Seres grandes y robustos, con resistencia fisica y regeneracion rapida. Residen en montanas o bosques, protegiendo sus territorios con ferocidad.;1;7;6;2;3;4;8;5;
+Centauro;Seres mitad humano, mitad caballo, conocidos por su velocidad y habilidades en la caza y el combate a distancia.;1;8;4;2;6;5;7;3;
+Constructo;Seres creados artificialmente, como golems o automatas, hechos de materiales diversos como piedra, metal o incluso magia, con propositos especificos o como guardianes.;1;7;4;2;8;3;5;6;
